@@ -5,10 +5,14 @@ A Chinese automobile company aims to enter the US market by setting up its manuf
 
 The business goal is to build a predictive model for car prices using various independent variables. This model will help management:
 
-Understand how different factors affect car pricing.
+1.Understand how different factors affect car pricing.
 
-Guide decisions on car design, manufacturing, and pricing strategies.
+2.Guide decisions on car design, manufacturing, and pricing strategies.
 
-Understand pricing dynamics in the new market.
+3.Understand pricing dynamics in the new market.
+
+# Dataset
+The dataset for this assignment has been provided by the consulting firm after conducting market surveys across the American automobile sector.
+You can find the dataset here.
 
 
