@@ -13,6 +13,23 @@ The business goal is to build a predictive model for car prices using various in
 
 # Dataset
 The dataset for this assignment has been provided by the consulting firm after conducting market surveys across the American automobile sector.
-You can find the dataset here.
+
+# Tasks
+1.Loading and Preprocessing.
+2.Model Implementation & Evaluation.
+3.Feature Importance Analysis.
+4.Hyperparameter Tuning. 
+
+# Conclusion
+1.Multiple regression models were trained and evaluated.
+
+2.The best performing model was identified based on evaluation metrics.
+
+3.Important features influencing car prices were analyzed.
+
+4.Hyperparameter tuning was performed to further improve model performance.
+
+
+
 
 
